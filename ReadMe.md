@@ -8,4 +8,4 @@ Python_image_resize_and_add_logo is Python script to convert image(s) to width 1
   2. Choose logo image
   3. Logo is centered and converted to width 1920px 
   4. Images are converted to width 1920px, logo is added in the center 
-  5. Images are saved in new created folder in image(s) location with the same name
+  5. Images are saved in new created folder in image(s) location with the same name as .JPG
